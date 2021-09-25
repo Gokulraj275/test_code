@@ -1,4 +1,3 @@
-n = "alert"
-{
-    console.log(n)
-}
+
+
+alert("Gokul");
